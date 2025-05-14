@@ -331,7 +331,7 @@ if selected == 'Emergency Alert':
     
     # HTML with inline CSS
     with col1:
-        st.markdown('<p style="color:red; font-size: 28px;"><b>Working on...</b></p>', unsafe_allow_html=True)
+        st.markdown('<p style="color:red; font-size: 28px;"><b>Coming Soon...</b></p>', unsafe_allow_html=True)
     
     
     
